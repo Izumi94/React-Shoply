@@ -2,7 +2,7 @@ import search from '../../assets/search.svg';
 import phone from '../../assets/phone.svg';
 import user from '../../assets/user.svg';
 import cart from '../../assets/cart.svg';
-import './style.scss';
+import './styles.scss';
 
 
 const Header = () => {
